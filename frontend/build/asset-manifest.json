@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49e702ac.css",
+    "main.js": "/static/js/main.6bb859df.js",
+    "static/media/contactus.jpeg": "/static/media/contactus.b6d2c9196210730fcca4.jpeg",
+    "static/media/Ourwork.jpg": "/static/media/Ourwork.1f1f76deb4e309cc77ee.jpg",
+    "static/media/SeedBallP.jpg": "/static/media/SeedBallP.477502a4c9dd2e7dfa1d.jpg",
+    "static/media/eco_champs.jpg": "/static/media/eco_champs.23ee7b573efe2866cc89.jpg",
+    "static/media/RTE.jpg": "/static/media/RTE.0323c6f9c4d8ee2f2d86.jpg",
+    "static/media/logo.png": "/static/media/logo.6b6815992892291d7e04.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.49e702ac.css.map": "/static/css/main.49e702ac.css.map",
+    "main.6bb859df.js.map": "/static/js/main.6bb859df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e702ac.css",
+    "static/js/main.6bb859df.js"
+  ]
+}
